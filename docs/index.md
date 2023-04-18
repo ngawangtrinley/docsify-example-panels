@@ -10,7 +10,7 @@
 
 **C2**
 
--   Fully compatible with any markdown or html features:
+མི་རྣམས་ཀྱི་དགོས་མཁོ་དང་སྐབས་ཐོག་གི་གནས་སྟངས་ལ་གཞིགས་པའི་འགན་འདྲ་མིན་འཁུར་བ་དང་། ཚོར་བ་ལྐོག་གྱུར་དང་ཁྱད་པར་ཕྲ་མོ་དག་ངོས་འཛིན་བྱེད་པ། གལ་གནད་ཅན་ནམ་་ཛ་དྲག་ཅན་གྱི་་བགྲོ་གླེང་ཡག་པོ་ཡོང་བ་བཅས་ལ་ནུས་པ་དང་ལྡན་པའི་སྒོ་ནས་་མཚམས་སྦྱོར་བྱེད་ཐུབ།
 
 <details>
   <summary>དཔེར་བརྗོད།</summary>
@@ -27,7 +27,7 @@ For multi-language documentation you can use it along with [docsify-tabs](https:
 
 ### **English**
 
-Can explain in clear, fluent, well-structured lanzguage the way facts and arguments are presented, conveying evaluative aspects and most nuances precisely, and pointing out sociocultural implications (e.g. use of register, understatement, irony and sarcasm).
+Can explain in clear, fluent, well-structured language the way facts and arguments are presented, conveying evaluative aspects and most nuances precisely, and pointing out sociocultural implications (e.g. use of register, understatement, irony and sarcasm).
 
 ### **ཚིག་འགྱུར།**
 
