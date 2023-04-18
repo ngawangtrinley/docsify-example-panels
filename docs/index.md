@@ -21,16 +21,12 @@
 
 <!-- div:right-panel -->
 
-<!-- tabs:start -->
-
-### **English**
-
 > Can explain in clear, fluent, well-structured language the way facts and arguments are presented, conveying evaluative aspects and most nuances precisely, and pointing out sociocultural implications (e.g. use of register, understatement, irony and sarcasm).
 
-The can-do statement means that you are good at telling people things in a way that is easy to understand, and also includes important details and how those details are important to society and culture.
+_The can-do statement means that you are good at telling people things in a way that is easy to understand, and also includes important details and how those details are important to society and culture._
 
 <details>
-  <summary>Detailed explanation</summary>
+  <summary>**Detailed explanation**</summary>
 
 Let me break it down into simpler parts:
 
@@ -50,39 +46,6 @@ Overall, this can-do statement means that you are good at explaining things in a
 
 </details>
 
-
-### **Chinese**
-
-> 能够用清晰、流利、结构合理的语言解释事实和论点的呈现方式，准确地传达评估方面和大多数细微差别，并指出社会文化含义（例如使用语域、轻描淡写、讽刺和讽刺）。
-
-這個 can-do statement 的意思是你擅長以易懂的方式告訴別人事情的重點，同時還包括重要細節以及它們與社會文化之間的關聯。
-
-<details>
-  <summary>详细解释</summary>
-  
-讓我把它分解成更簡單的部分：
-
-清晰流暢的語言：這表示你能用易懂的語言說話或寫作。你使用有意義且不會太複雜的詞彙。
-例如：「今天的天空是藍色的」是一個清晰且簡單的句子。
-
-組織良好的語言：這表示你能夠組織你的想法和觀點，使聽眾或讀者能夠理解。你知道如何開始一個介紹，然後給出細節，最後以總結結束。
-例如：當寫一個故事時，你可能會先介紹主要人物，然後描述他們在做什麼，最後結束故事。
-
-準確傳達評估層面和細微差別：這表示你能夠顯示事情的重要性或不重要性，以及它們與其他事物的聯繫。你能夠解釋小的差異並說明它們為什麼重要。
-例如：如果你告訴別人你最喜歡的顏色，你可能會解釋你為什麼喜歡它以及它與其他顏色的區別。
-
-指出社會文化影響：這表示你能夠顯示事物與社會文化之間的關聯，以及為什麼了解它們很重要。你能夠解釋不同的事物根據你在哪裡和和誰在一起而不同。
-例如：如果你告訴別人你國家流行的食物，你可能會解釋為什麼它對你的文化很重要以及它與其他國家的食物不同。
-
-總體而言，這個 can-do statement 的意思是你能夠以易懂的方式解釋事情，同時還能夠顯示為什
-  
-</details>
-
-<!-- tabs:end -->
-
-<!-- div:title-panel -->
-
-### Hello!
 
 <!-- div:title-panel -->
 
